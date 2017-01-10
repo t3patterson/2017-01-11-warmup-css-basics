@@ -3,6 +3,11 @@
 ###The Mockup
 ![mockup](./mockups/npr-basic-css-mockup.png)
 
+###Setup Instructions
+```
+cd ~/TIY/warmups
+```
+
 ###Designer Specs
 ```
 font + color for 'the salt' nav-bar font:
