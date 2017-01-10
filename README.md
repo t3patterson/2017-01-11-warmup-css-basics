@@ -15,14 +15,14 @@ font for the header content:
 font for the article-content
 'Palatino'
 
-background color for the 'the salt, 'Correction' area, and button at bottom:
-#ebebeb;
+background color for the 'the salt' navbar, the 'Correction' area, and button at bottom:
+#dddddd;
 
-'Listen' blue button background color & 'morning edition' link color:
+Contributor 'Julia Botero' border color:
+#dddddd
+
+'Morning edition' & 'Read more...' link color:
 #5076b8
-
-'Julia Botero' button gray button border color:
-#e0e0e0
 
 dark gray font color (in 'Correction' and button at bottom):
 #636363
